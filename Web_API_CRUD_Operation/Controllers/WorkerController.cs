@@ -90,6 +90,10 @@ namespace Web_API_CRUD_Operation.Controllers
         //}
 
 
+
+
+
+        // this is my revision code that was i write for practise
         [HttpGet]
         public async Task<IActionResult> ShowWorker()
         {
@@ -151,3 +155,5 @@ namespace Web_API_CRUD_Operation.Controllers
         }
     }
 }
+
+
